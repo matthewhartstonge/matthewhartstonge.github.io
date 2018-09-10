@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Matt Writes Things Sometimes</title>
-    <link>https://matthewhartstonge.github.io/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Matt Writes Things Sometimes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright 2018 Matthew Hartstonge</copyright>
     <lastBuildDate>Mon, 10 Sep 2018 20:00:00 +1200</lastBuildDate>
     
-	<atom:link href="https://matthewhartstonge.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Shipit</title>
-      <link>https://matthewhartstonge.github.io/tags/shipit/</link>
+      <link>/tags/shipit/</link>
       <pubDate>Mon, 10 Sep 2018 20:00:00 +1200</pubDate>
       
-      <guid>https://matthewhartstonge.github.io/tags/shipit/</guid>
+      <guid>/tags/shipit/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sre</title>
-      <link>https://matthewhartstonge.github.io/tags/sre/</link>
+      <link>/tags/sre/</link>
       <pubDate>Mon, 10 Sep 2018 20:00:00 +1200</pubDate>
       
-      <guid>https://matthewhartstonge.github.io/tags/sre/</guid>
+      <guid>/tags/sre/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Toil</title>
-      <link>https://matthewhartstonge.github.io/tags/toil/</link>
+      <link>/tags/toil/</link>
       <pubDate>Mon, 10 Sep 2018 20:00:00 +1200</pubDate>
       
-      <guid>https://matthewhartstonge.github.io/tags/toil/</guid>
+      <guid>/tags/toil/</guid>
       <description></description>
     </item>
     
