@@ -3,53 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://blog.mykro.co.nz/posts/just-ship-it/</loc>
+    <loc>https://matthewhartstonge.github.io/posts/just-ship-it/</loc>
     <lastmod>2018-09-10T20:00:00+12:00</lastmod>
   </url>
   
   <url>
-    <loc>http://blog.mykro.co.nz/categories/</loc>
+    <loc>https://matthewhartstonge.github.io/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.mykro.co.nz/</loc>
-    <lastmod>2018-09-10T20:00:00+12:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://blog.mykro.co.nz/categories/mind-dump/</loc>
+    <loc>https://matthewhartstonge.github.io/</loc>
     <lastmod>2018-09-10T20:00:00+12:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.mykro.co.nz/posts/</loc>
+    <loc>https://matthewhartstonge.github.io/categories/mind-dump/</loc>
     <lastmod>2018-09-10T20:00:00+12:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.mykro.co.nz/tags/shipit/</loc>
+    <loc>https://matthewhartstonge.github.io/posts/</loc>
     <lastmod>2018-09-10T20:00:00+12:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.mykro.co.nz/tags/sre/</loc>
+    <loc>https://matthewhartstonge.github.io/tags/shipit/</loc>
     <lastmod>2018-09-10T20:00:00+12:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.mykro.co.nz/tags/</loc>
+    <loc>https://matthewhartstonge.github.io/tags/sre/</loc>
     <lastmod>2018-09-10T20:00:00+12:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://blog.mykro.co.nz/tags/toil/</loc>
+    <loc>https://matthewhartstonge.github.io/tags/</loc>
+    <lastmod>2018-09-10T20:00:00+12:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://matthewhartstonge.github.io/tags/toil/</loc>
     <lastmod>2018-09-10T20:00:00+12:00</lastmod>
     <priority>0</priority>
   </url>
