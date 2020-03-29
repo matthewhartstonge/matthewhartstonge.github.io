@@ -1,0 +1,17 @@
+
+### References
+
+{{<bibli
+    id="1"
+    author="W3Tech"
+    date="2020-03-16"
+    title="Usage statistics and market share of WordPress"
+    link="https://w3techs.com/technologies/details/cm-wordpress"
+>}}
+
+- [1]: According to [W3Tech][W3Tech], as at `2020-03-16`:
+ > WordPress is used by 62.9% of all the websites whose content management
+ > system we know. This is 36.1% of all websites.
+
+[//]: links
+[W3Tech]: https://w3techs.com/technologies/details/cm-wordpress
