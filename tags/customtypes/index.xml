@@ -1,2 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>CustomTypes on Matthew Hartstonge</title><link>https://blog.mykro.co.nz/tags/customtypes/</link><description>Recent content in CustomTypes on Matthew Hartstonge</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>&amp;copy; Copyright 2023 Matthew Hartstonge</copyright><lastBuildDate>Sat, 22 Jul 2023 17:45:00 +1200</lastBuildDate><atom:link href="https://blog.mykro.co.nz/tags/customtypes/index.xml" rel="self" type="application/rss+xml"/><item><title>Devlog: 002 - Building Terraform Custom Types</title><link>https://blog.mykro.co.nz/posts/2023-07-22-devlog-002/</link><pubDate>Sat, 22 Jul 2023 17:45:00 +1200</pubDate><guid>https://blog.mykro.co.nz/posts/2023-07-22-devlog-002/</guid><description>Terraform Plugin Framework Custom Types One of the great new things the Terraform Plugin Framework provides is a stronger focus on strict typing and with that, the ability to develop custom types.
-One of the first issues I discovered straight out of the gate when attempting to build a new Terraform Provider with the Plugin Framework was that the data I was modelling for a resource used UUIDs for its record ids.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CustomTypes on Matthew Hartstonge</title>
+    <link>https://blog.mykro.co.nz/tags/customtypes/</link>
+    <description>Recent content in CustomTypes on Matthew Hartstonge</description>
+    <image>
+      <title>Matthew Hartstonge</title>
+      <url>https://blog.mykro.co.nz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.mykro.co.nz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.132.1</generator>
+    <language>en</language>
+    <copyright>Copyright 2024 Matthew Hartstonge</copyright>
+    <lastBuildDate>Sat, 22 Jul 2023 17:45:00 +1200</lastBuildDate>
+    <atom:link href="https://blog.mykro.co.nz/tags/customtypes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Devlog: 002 - Building Terraform Custom Types</title>
+      <link>https://blog.mykro.co.nz/posts/2023-07-22-devlog-002/</link>
+      <pubDate>Sat, 22 Jul 2023 17:45:00 +1200</pubDate>
+      <guid>https://blog.mykro.co.nz/posts/2023-07-22-devlog-002/</guid>
+      <description>Terraform Plugin Framework Custom Types One of the great new things the Terraform Plugin Framework provides is a stronger focus on strict typing and with that, the ability to develop custom types.
+One of the first issues I discovered straight out of the gate when attempting to build a new Terraform Provider with the Plugin Framework was that the data I was modelling for a resource used UUIDs for its record ids.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,2 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Conditionals on Matthew Hartstonge</title><link>https://blog.mykro.co.nz/tags/conditionals/</link><description>Recent content in Conditionals on Matthew Hartstonge</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><copyright>&amp;copy; Copyright 2023 Matthew Hartstonge</copyright><lastBuildDate>Tue, 30 May 2023 16:00:00 +1200</lastBuildDate><atom:link href="https://blog.mykro.co.nz/tags/conditionals/index.xml" rel="self" type="application/rss+xml"/><item><title>Else Is Evil</title><link>https://blog.mykro.co.nz/posts/2023-05-30-else-is-evil/</link><pubDate>Tue, 30 May 2023 16:00:00 +1200</pubDate><guid>https://blog.mykro.co.nz/posts/2023-05-30-else-is-evil/</guid><description>Take the following Go code as an example:
-package main type CodeType int const ( CodeA CodeType = iota + 10 CodeB ) func calculateCodes(codeType CodeType) int { var value int if codeType == CodeA { value = 10 } else { value = 20 } return value } func main() { fmt.Println(calculateCodes(CodeA)) } Why is else evil? There are a number of things that can cause an issue as code gets maintained over its lifecycle which can be dangerous:</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Conditionals on Matthew Hartstonge</title>
+    <link>https://blog.mykro.co.nz/tags/conditionals/</link>
+    <description>Recent content in Conditionals on Matthew Hartstonge</description>
+    <image>
+      <title>Matthew Hartstonge</title>
+      <url>https://blog.mykro.co.nz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://blog.mykro.co.nz/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.132.1</generator>
+    <language>en</language>
+    <copyright>Copyright 2024 Matthew Hartstonge</copyright>
+    <lastBuildDate>Tue, 30 May 2023 16:00:00 +1200</lastBuildDate>
+    <atom:link href="https://blog.mykro.co.nz/tags/conditionals/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Else Is Evil</title>
+      <link>https://blog.mykro.co.nz/posts/2023-05-30-else-is-evil/</link>
+      <pubDate>Tue, 30 May 2023 16:00:00 +1200</pubDate>
+      <guid>https://blog.mykro.co.nz/posts/2023-05-30-else-is-evil/</guid>
+      <description>Take the following Go code as an example:
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 package main type CodeType int const ( CodeA CodeType = iota + 10 CodeB ) func calculateCodes(codeType CodeType) int { var value int if codeType == CodeA { value = 10 } else { value = 20 } return value } func main() { fmt.</description>
+    </item>
+  </channel>
+</rss>
