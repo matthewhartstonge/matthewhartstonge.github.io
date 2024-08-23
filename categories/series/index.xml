@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Series on Matthew Hartstonge</title>
+    <link>http://localhost:1313/categories/series/</link>
+    <description>Recent content in Series on Matthew Hartstonge</description>
+    <image>
+      <title>Matthew Hartstonge</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.133.0</generator>
+    <language>en</language>
+    <copyright>Copyright 2024 Matthew Hartstonge</copyright>
+    <lastBuildDate>Fri, 13 Mar 2020 22:14:40 +1300</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>HTTPS Redirect Service with Rust: Part 1</title>
+      <link>http://localhost:1313/posts/wip/https-redirect-with-rust-part-1/</link>
+      <pubDate>Fri, 13 Mar 2020 22:14:40 +1300</pubDate>
+      <guid>http://localhost:1313/posts/wip/https-redirect-with-rust-part-1/</guid>
+      <description>Welcome! This is the first in a series where I use the Rust programming language to attack a smol problem in order to:
+Make the world a little bit safer (TLS everywhere!!) Help you understand the ins-and-outs of Rust in a practical manner. Have something practical that you have to play with at the end of the journey. Today we are going to be looking at Rust concepts and a quick language overview/comparison.</description>
+    </item>
+  </channel>
+</rss>
