@@ -12,17 +12,8 @@
     <generator>Hugo -- 0.133.0</generator>
     <language>en</language>
     <copyright>Copyright 2024 Matthew Hartstonge</copyright>
-    <lastBuildDate>Fri, 23 Aug 2024 12:22:22 +1200</lastBuildDate>
+    <lastBuildDate>Sat, 22 Jul 2023 17:45:00 +1200</lastBuildDate>
     <atom:link href="https://blog.mykro.co.nz/tags/golang/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Why Use Go?</title>
-      <link>https://blog.mykro.co.nz/posts/2024-08-23-why-use-go-cross-compilation/</link>
-      <pubDate>Fri, 23 Aug 2024 12:22:22 +1200</pubDate>
-      <guid>https://blog.mykro.co.nz/posts/2024-08-23-why-use-go-cross-compilation/</guid>
-      <description>I&amp;rsquo;ve worked with Go(lang) professionally for over eight years. Now, while some might say I don&amp;rsquo;t have enough experience to be able to get an entry-level job (looking at you recruiters), others might say that I&amp;rsquo;m qualified enough to understand Go&amp;rsquo;s benefits and pitfalls.
-Today, we look at how Go&amp;rsquo;s quick and easy cross-compilation can be a deciding factor when answering &amp;ldquo;Why Use Go?&amp;rdquo;.
-The first use case that led me to migrate a project to Go was a requirement to work across multiple platforms to extract, transform and load data.</description>
-    </item>
     <item>
       <title>Devlog: 002 - Building Terraform Custom Types</title>
       <link>https://blog.mykro.co.nz/posts/2023-07-22-devlog-002/</link>

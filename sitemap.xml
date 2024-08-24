@@ -3,40 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://blog.mykro.co.nz/</loc>
-    <lastmod>2024-08-23T12:23:22+12:00</lastmod>
+    <lastmod>2023-12-11T14:28:30+12:00</lastmod>
   </url><url>
     <loc>https://blog.mykro.co.nz/posts/</loc>
-    <lastmod>2024-08-23T12:23:22+12:00</lastmod>
+    <lastmod>2023-12-11T14:28:30+12:00</lastmod>
   </url><url>
     <loc>https://blog.mykro.co.nz/categories/</loc>
-    <lastmod>2024-08-23T12:22:22+12:00</lastmod>
-  </url><url>
-    <loc>https://blog.mykro.co.nz/tags/crosscompilation/</loc>
-    <lastmod>2024-08-23T12:22:22+12:00</lastmod>
-  </url><url>
-    <loc>https://blog.mykro.co.nz/tags/go/</loc>
-    <lastmod>2024-08-23T12:22:22+12:00</lastmod>
-  </url><url>
-    <loc>https://blog.mykro.co.nz/tags/golang/</loc>
-    <lastmod>2024-08-23T12:22:22+12:00</lastmod>
-  </url><url>
-    <loc>https://blog.mykro.co.nz/tags/programming/</loc>
-    <lastmod>2024-08-23T12:22:22+12:00</lastmod>
-  </url><url>
-    <loc>https://blog.mykro.co.nz/categories/software-engineering/</loc>
-    <lastmod>2024-08-23T12:22:22+12:00</lastmod>
-  </url><url>
-    <loc>https://blog.mykro.co.nz/tags/softwaredevelopment/</loc>
-    <lastmod>2024-08-23T12:22:22+12:00</lastmod>
-  </url><url>
-    <loc>https://blog.mykro.co.nz/tags/softwareengineering/</loc>
-    <lastmod>2024-08-23T12:22:22+12:00</lastmod>
-  </url><url>
-    <loc>https://blog.mykro.co.nz/tags/</loc>
-    <lastmod>2024-08-23T12:22:22+12:00</lastmod>
-  </url><url>
-    <loc>https://blog.mykro.co.nz/posts/2024-08-23-why-use-go-cross-compilation/</loc>
-    <lastmod>2024-08-23T12:22:22+12:00</lastmod>
+    <lastmod>2023-07-22T17:45:00+12:00</lastmod>
   </url><url>
     <loc>https://blog.mykro.co.nz/tags/customtypes/</loc>
     <lastmod>2023-07-22T17:45:00+12:00</lastmod>
@@ -47,7 +20,28 @@
     <loc>https://blog.mykro.co.nz/tags/devops/</loc>
     <lastmod>2023-07-22T17:45:00+12:00</lastmod>
   </url><url>
+    <loc>https://blog.mykro.co.nz/tags/go/</loc>
+    <lastmod>2023-07-22T17:45:00+12:00</lastmod>
+  </url><url>
+    <loc>https://blog.mykro.co.nz/tags/golang/</loc>
+    <lastmod>2023-07-22T17:45:00+12:00</lastmod>
+  </url><url>
     <loc>https://blog.mykro.co.nz/tags/pluginframework/</loc>
+    <lastmod>2023-07-22T17:45:00+12:00</lastmod>
+  </url><url>
+    <loc>https://blog.mykro.co.nz/tags/programming/</loc>
+    <lastmod>2023-07-22T17:45:00+12:00</lastmod>
+  </url><url>
+    <loc>https://blog.mykro.co.nz/categories/software-engineering/</loc>
+    <lastmod>2023-07-22T17:45:00+12:00</lastmod>
+  </url><url>
+    <loc>https://blog.mykro.co.nz/tags/softwaredevelopment/</loc>
+    <lastmod>2023-07-22T17:45:00+12:00</lastmod>
+  </url><url>
+    <loc>https://blog.mykro.co.nz/tags/softwareengineering/</loc>
+    <lastmod>2023-07-22T17:45:00+12:00</lastmod>
+  </url><url>
+    <loc>https://blog.mykro.co.nz/tags/</loc>
     <lastmod>2023-07-22T17:45:00+12:00</lastmod>
   </url><url>
     <loc>https://blog.mykro.co.nz/tags/terraform/</loc>
